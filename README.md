@@ -5,4 +5,4 @@ This board uses the cheap BD93291EFJ switching buck regulator which offers dual 
 
 The pin headers are 2.54mm pitch, as the board is designed to be plugged into a breadboard as a convenient dual-rail power supply.
 
-![Front of PCB](master/reg-back.png?raw=true)
+![Front of PCB](reg-front.png?raw=true)
